@@ -17,7 +17,6 @@ ALAT DAN BAHAN
 11.	Kabel Jumper
 12.	4 buah roda kecil.
 
-DESIGN RANGKAIAN
 ![image](https://user-images.githubusercontent.com/108654517/209518589-0e9db159-5b27-46fd-9316-1efd7c553969.png)
 
 CARA MERANGKAI KOMPONEN
